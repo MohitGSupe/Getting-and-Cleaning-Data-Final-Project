@@ -5,7 +5,8 @@ library(dplyr)
 library(tidyr)
 
 # Setting up my working directory
-setwd("/Users/mohitsupe/Desktop/Certifications/Data Science/Getting & Cleaning Data/Project/")
+## Have purposely removed the complete path as it includes folders from my personal machine.
+setwd("/Getting & Cleaning Data/Project/")
 
 # Reading training data set and saving in the objects
 
